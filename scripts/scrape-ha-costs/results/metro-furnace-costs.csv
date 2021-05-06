@@ -1,0 +1,166 @@
+fipsCode,metroName,avgCost,avgRangeMinCost,avgRangeMaxCost,minCost,maxCost,numCostProfiles
+10420,"Akron metro area",4874,3258,6548,0,8440,57
+10540,"Albany metro area",3599,3350,4100,2100,5000,4
+10580,"Albany metro area",3656,2754,4648,0,6000,63
+10740,"Albuquerque metro area",4024,2205,6030,0,9000,61
+10900,"Allentown metro area",5539,3797,7903,900,12360,34
+11260,"Anchorage metro area",5465,3983,7194,0,9640,13
+11460,"Ann Arbor metro area",4538,2977,6099,0,7800,28
+11700,"Asheville metro area",3787,2983,5395,0,5650,9
+12060,"Atlanta metro area",3570,2009,5231,900,7000,258
+12100,"Atlantic City metro area",5186,3378,7716,0,9200,12
+12260,"Augusta metro area",6400,5450,7350,0,7350,4
+12420,"Austin metro area",3127,1867,4387,900,5300,19
+12580,"Baltimore metro area",4817,3264,7016,900,10085,157
+12700,"Barnstable Town metro area",3640,1120,6160,0,7500,10
+12940,"Baton Rouge metro area",3250,1416,6000,0,6100,5
+13380,"Bellingham metro area",2883,2460,3516,1800,3900,6
+13780,"Binghamton metro area",5325,3325,7825,0,9000,9
+13820,"Birmingham metro area",3265,2153,4479,800,6000,25
+14260,"Boise City metro area",5183,3395,7050,0,10500,47
+14460,"Boston metro area",5740,3507,8139,0,12000,307
+14500,"Boulder metro area",5193,3064,7664,0,12000,54
+14740,"Bremerton metro area",5376,2523,8800,0,11000,11
+14860,"Bridgeport metro area",4627,3258,6338,0,8350,54
+15380,"Buffalo metro area",3735,2487,4983,0,8000,62
+15540,"Burlington metro area",3410,2024,4796,0,5920,8
+15680,"California metro area",1050,900,1350,900,1500,4
+15940,"Canton metro area",3574,2947,4471,0,5000,17
+16580,"Champaign metro area",6138,4130,9151,0,9852,5
+16700,"Charleston metro area",5535,4720,6350,2500,14000,26
+16740,"Charlotte metro area",5416,3520,7463,0,13049,52
+16980,"Chicago metro area",3798,2392,5328,725,7850,686
+17140,"Cincinnati metro area",4345,2332,6584,400,9400,93
+17460,"Cleveland metro area",4279,2634,5925,0,8000,136
+17660,"Coeur d'Alene metro area",3560,1650,5471,0,7168,12
+17820,"Colorado Springs metro area",4681,3177,6377,0,9500,100
+17900,"Columbia metro area",7758,5498,11149,2209,16000,6
+18140,"Columbus metro area",4098,2316,6038,1100,8500,100
+18880,"Crestview metro area",3575,350,6800,0,9600,4
+19100,"Dallas metro area",3553,1791,5355,400,9000,97
+19740,"Denver metro area",4469,2857,6357,1300,9800,511
+19780,"Des Moines metro area",5206,4015,6994,0,7900,10
+19820,"Detroit metro area",4155,2905,5683,450,7500,301
+20100,"Dover metro area",5948,4722,8401,1400,10700,10
+20260,"Duluth metro area",4930,3180,7117,0,9200,9
+20500,"Durham metro area",3717,2314,5121,900,5700,7
+20700,"East Stroudsburg metro area",5854,4385,7322,900,11250,13
+21140,"Elkhart metro area",5854,5254,6454,0,7000,6
+21340,"El Paso metro area",1401,790,2274,0,6500,17
+21660,"Eugene metro area",7621,6389,9161,0,10000,9
+21780,"Evansville metro area",5285,2821,7750,0,9200,4
+22220,"Fayetteville metro area",5485,3400,8266,0,10000,7
+22420,"Flint metro area",2530,1501,3560,0,4000,10
+22660,"Fort Collins metro area",4389,2746,6205,525,8995,41
+23060,"Fort Wayne metro area",5694,4965,6787,0,7500,5
+23420,"Fresno metro area",3424,933,5916,0,10949,6
+23580,"Gainesville metro area",4905,3976,5834,3200,6900,9
+23900,"Gettysburg metro area",4111,2676,5546,0,6500,8
+24300,"Grand Junction metro area",4970,4212,8000,0,8000,5
+24340,"Grand Rapids metro area",3725,2179,5271,0,7500,50
+24540,"Greeley metro area",3799,1637,6202,0,9997,19
+24580,"Green Bay metro area",2566,1420,4000,0,6400,9
+24660,"Greensboro metro area",4023,2350,5696,0,8700,14
+24860,"Greenville metro area",4873,2788,7218,0,9749,17
+25420,"Harrisburg metro area",4446,2103,7002,0,8200,23
+25540,"Hartford metro area",5390,3731,7094,0,9000,75
+26420,"Houston metro area",4805,2547,7065,900,10500,82
+26620,"Huntsville metro area",3562,2585,4783,900,5000,11
+26900,"Indianapolis metro area",4222,2622,5875,1000,7830,102
+27260,"Jacksonville metro area",3700,2833,5000,0,5000,5
+28020,"Kalamazoo metro area",4308,2948,5668,0,6000,4
+28100,"Kankakee metro area",4807,3423,6652,0,8457,7
+28140,"Kansas City metro area",4208,2575,6040,605,9000,105
+28660,"Killeen metro area",4350,4350,4350,900,5500,4
+28740,"Kingston metro area",4784,3185,6650,0,7500,13
+28940,"Knoxville metro area",3173,2029,5004,0,5400,13
+29420,"Lake Havasu City metro area",5550,5550,5550,0,6000,4
+29540,"Lancaster metro area",4481,3137,5947,0,7500,23
+29620,"Lansing metro area",4054,2686,5422,0,7650,40
+29820,"Las Vegas metro area",4978,3152,6803,0,8062,24
+30140,"Lebanon metro area",6462,5450,7475,0,7750,4
+30460,"Lexington metro area",3842,2125,6133,0,6800,7
+30780,"Little Rock metro area",8240,6633,10650,0,12000,5
+31080,"Los Angeles metro area",4978,3020,7083,1400,15000,330
+31140,"Louisville/Jefferson County metro area",3500,2139,5234,1000,8145,26
+31540,"Madison metro area",3265,2637,3949,0,5000,23
+31700,"Manchester metro area",5280,3454,7535,0,10500,76
+32820,"Memphis metro area",4683,2297,7240,900,14000,30
+33340,"Milwaukee metro area",4074,2580,5610,0,7500,73
+33460,"Minneapolis metro area",4884,3255,6513,0,9000,328
+34060,"Morgantown metro area",4963,3141,6785,0,6800,4
+34580,"Mount Vernon metro area",5148,1864,8433,0,10000,6
+34740,"Muskegon metro area",2419,1666,3547,0,5000,5
+34820,"Myrtle Beach metro area",3278,1899,6035,149,6500,6
+34980,"Nashville metro area",3810,2401,5219,1000,8000,41
+35300,"New Haven metro area",5184,3623,7122,0,9000,65
+35380,"New Orleans metro area",5410,2933,8507,0,12000,9
+35620,"New York City metro area",5259,3446,7311,1000,10300,661
+36140,"Ocean City metro area",5483,4109,7200,0,9000,9
+36260,"Ogden metro area",3892,2310,5474,0,10000,26
+36420,"Oklahoma City metro area",4071,2584,5908,400,7000,39
+36500,"Olympia metro area",5374,3494,7568,0,8780,13
+36540,"Omaha metro area",3693,2137,5250,0,7502,16
+36740,"Orlando metro area",4281,3228,5684,134,7500,9
+37100,"Oxnard metro area",3952,2090,5912,1000,11000,40
+37900,"Peoria metro area",3868,2616,5122,2000,7000,9
+37980,"Philadelphia metro area",5796,3649,7952,1500,11000,437
+38060,"Phoenix metro area",4301,2204,6680,500,9583,20
+38300,"Pittsburgh metro area",4428,2791,6064,1000,8552,145
+38860,"Portland metro area",4967,2880,7750,0,10000,14
+38900,"Portland metro area",4633,3102,6164,1600,9000,148
+39100,"Poughkeepsie metro area",5334,4575,6346,0,7000,7
+39150,"Prescott Valley metro area",2233,1210,3255,0,4921,4
+39300,"Providence metro area",4811,2872,6750,900,10000,103
+39340,"Provo metro area",3663,2225,5532,566,8424,24
+39380,"Pueblo metro area",3382,2825,4125,0,4400,7
+39540,"Racine metro area",4727,3716,5940,0,7100,11
+39580,"Raleigh metro area",4906,2839,6997,450,11000,29
+39660,"Rapid City metro area",5089,3000,7178,0,8125,4
+39740,"Reading metro area",3997,2157,6296,0,7500,18
+39900,"Reno metro area",3253,1965,4799,0,5324,11
+40060,"Richmond metro area",3818,2451,5383,167,7500,20
+40140,"Riverside metro area",5194,3212,7178,1305,10000,71
+40220,"Roanoke metro area",4540,3480,5601,0,6500,10
+40380,"Rochester metro area",3770,2815,4726,0,7000,68
+40420,"Rockford metro area",3334,2271,4575,0,5700,13
+40900,"Sacramento metro area",7279,5142,9478,1600,15000,71
+40980,"Saginaw metro area",2605,1250,3960,0,4720,4
+41060,"St. Cloud metro area",4678,3460,6202,0,7900,9
+41180,"St. Louis metro area",4267,2629,6141,1100,8049,88
+41420,"Salem metro area",4391,3588,6133,2000,8000,20
+41500,"Salinas metro area",5920,3290,8550,0,12000,8
+41540,"Salisbury metro area",5487,3798,7175,1000,10330,19
+41620,"Salt Lake City metro area",4782,3061,6694,0,13079,57
+41700,"San Antonio metro area",5799,3865,8120,1400,9200,12
+41740,"San Diego metro area",3286,1894,4865,0,9192,158
+41860,"San Francisco metro area",4963,2971,7127,0,11000,267
+41940,"San Jose metro area",4908,2862,6983,1500,11000,136
+42020,"San Luis Obispo metro area",3448,2227,4780,300,7900,24
+42100,"Santa Cruz metro area",3761,2571,5150,0,5900,13
+42140,"Santa Fe metro area",3077,2217,4060,0,5700,15
+42200,"Santa Maria metro area",3626,2563,4842,0,7400,15
+42220,"Santa Rosa metro area",5081,3817,6688,1000,10000,51
+42340,"Savannah metro area",5130,3917,6950,0,8900,5
+42660,"Seattle metro area",4118,2570,5699,900,10600,345
+43620,"Sioux Falls metro area",6850,4084,11000,0,12000,5
+43780,"South Bend metro area",2292,1492,3292,300,5860,17
+44060,"Spokane metro area",3523,1681,5596,100,7360,18
+44140,"Springfield metro area",4755,3369,6735,0,9048,17
+44180,"Springfield metro area",6153,3640,9295,0,13800,9
+44700,"Stockton metro area",3222,2010,4433,150,6000,13
+45060,"Syracuse metro area",3489,2365,4781,0,6000,43
+45300,"Tampa metro area",3333,1576,5090,0,6500,10
+45940,"Trenton metro area",5774,3585,8147,0,13000,25
+46060,"Tucson metro area",3993,2115,5873,600,8300,19
+46140,"Tulsa metro area",2326,567,4084,274,6800,11
+46700,"Vallejo metro area",10706,5390,19566,0,39000,8
+47220,"Vineland metro area",4282,2500,6064,0,7318,6
+47260,"Virginia Beach metro area",6264,4122,8805,1000,12000,71
+47900,"Washington DC metro area",5437,3593,7298,1500,10000,364
+48060,"Watertown metro area",3285,2921,3650,0,4000,4
+48620,"Wichita metro area",2418,1378,3665,0,4500,11
+49180,"Winston metro area",8141,3360,14117,0,38000,9
+49340,"Worcester metro area",5318,3255,7663,0,11000,47
+49620,"York metro area",5014,3443,6743,0,9000,21
+49660,"Youngstown metro area",3530,2500,4560,0,5100,10

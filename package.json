@@ -132,7 +132,8 @@
     "build-storybook": "build-storybook -s public --no-dll",
     "analyze": "cross-env REACT_APP_ENVIRONMENT=prod yarn build && source-map-explorer build/static/js/*.js",
     "generate-ccvi": "ts-node-script -r tsconfig-paths/register scripts/ccvi/parse_ccvi.ts",
-    "generate-surgo-percent-population-vulnerable": "ts-node-script -r tsconfig-paths/register scripts/ccvi/parse_surgo_percent_population_vulnerable.ts"
+    "generate-surgo-percent-population-vulnerable": "ts-node-script -r tsconfig-paths/register scripts/ccvi/parse_surgo_percent_population_vulnerable.ts",
+    "scrape-ha-costs": "ts-node-script -r tsconfig-paths/register scripts/scrape-ha-costs/scrape.ts"
   },
   "lint-staged": {
     "{src,scripts,firebase/functions/src,}/**/*.{css,scss,js,ts,tsx}": [
