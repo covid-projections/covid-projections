@@ -29,6 +29,10 @@ export const FIELDS: MetricField[] = [
   { displayName: 'Infection rate', field: 'metrics.infectionRate' },
   { displayName: 'Positive test rate', field: 'metrics.testPositivityRatio' },
   { displayName: '% Vaccinated', field: 'metrics.vaccinationsInitiatedRatio' },
+  {
+    displayName: 'Vaccine demographics',
+    field: 'actuals.vaccinationsInitiatedDemographics',
+  },
   { displayName: 'ICU capacity used', field: 'metrics.icuCapacityRatio' },
   { displayName: 'Hospitalization usage', field: 'metrics.icuCapacityRatio' },
   { displayName: 'Deaths', field: 'actuals.deaths' },
