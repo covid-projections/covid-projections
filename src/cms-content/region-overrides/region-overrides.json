@@ -228,20 +228,11 @@
       "context": "https://trello.com/c/hvLgPSCV/1449-blocked-6-26-three-texas-counties-with-data-anomalies Upshur county note"
     },
     {
-      "include": "subregions",
-      "metric": "metrics.vaccinationsInitiatedRatio",
-      "blocked": true,
-      "start_date": "2021-07-09",
-      "end_date": "",
-      "region": "PA",
-      "context": "https://trello.com/c/joAFlemh/1462-pa-1st-dose-decreased-across-the-board"
-    },
-    {
       "include": "region",
       "metric": "metrics.caseDensity",
       "blocked": true,
       "start_date": "2021-07-03",
-      "end_date": "2021-07-19",
+      "end_date": "2021-07-13",
       "region": "06065",
       "disclaimer": "",
       "context": "Large outliers not caught due to post-7/4 outlier exclusion + corrected a week later (which caused negative value)"
@@ -254,15 +245,6 @@
       "end_date": "2021-07-07",
       "region": "IA",
       "context": "Large outliers not caught due to post-7/4 outlier exclusion. See https://github.com/covid-projections/covid-data-model/pull/1150"
-    },
-    {
-      "include": "region",
-      "metric": "metrics.caseDensity",
-      "blocked": true,
-      "start_date": "2021-07-08",
-      "end_date": "",
-      "region": "IA, 19153, 19163, 19013, 19187",
-      "context": "Block Iowa state and some counties data after 7/8 since either they haven't reported cases or they're getting removed by outlier detection."
     },
     {
       "include": "region",
